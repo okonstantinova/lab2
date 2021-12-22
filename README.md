@@ -11,7 +11,7 @@
 - release/\<version\>
 - feature/\<name\>
 
-Для начала работы с репозиторием склонируйте его локально, используя [URL](https://github.com/okonstantinova/lab2.git)
+Для начала работы с репозиторием склонируйте его локально, используя [URL](https://github.com/okonstantinova/lab2.git).
 Для инициализации используемыхх submodules выполните команду `git submodule init`.
 Затем выполните команду `git submodule update`, чтобы скачать содержимое вложенных репозиториев.
 
